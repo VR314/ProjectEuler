@@ -1,0 +1,25 @@
+The first few lines must be a multiline comment with the following structure:
+/*
+*	Problem #: 
+*	Date Attempted:
+*	Date Solved: 
+*
+*	COPY AND PASTE PROMPT
+*
+*	Answer: 
+*/
+
+To solve a new prompt in C# or C++:
+	- create new console project
+	- set name to 00x 
+	- set solution to "Add to Solution"
+	- create!
+
+To solve a new prompt in Python or F#:
+	- create a new folder 00x
+	- add a source file (*.py / *.fsx)
+	- code!
+
+To solve a new prompt in Java:
+	- use VSCode w/ Java Extension
+	- create a folder 00x and inside a file + class named _00x (class name needs to match file name)
