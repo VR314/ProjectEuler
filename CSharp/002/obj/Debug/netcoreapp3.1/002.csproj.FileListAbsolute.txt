@@ -1,0 +1,13 @@
+C:\Users\cheez\Desktop\code\ProjectEuler\CSharp\002\obj\Debug\netcoreapp3.1\002.csprojAssemblyReference.cache
+C:\Users\cheez\Desktop\code\ProjectEuler\CSharp\002\obj\Debug\netcoreapp3.1\002.AssemblyInfoInputs.cache
+C:\Users\cheez\Desktop\code\ProjectEuler\CSharp\002\obj\Debug\netcoreapp3.1\002.AssemblyInfo.cs
+C:\Users\cheez\Desktop\code\ProjectEuler\CSharp\002\obj\Debug\netcoreapp3.1\002.csproj.CoreCompileInputs.cache
+C:\Users\cheez\Desktop\code\ProjectEuler\CSharp\002\bin\Debug\netcoreapp3.1\002.exe
+C:\Users\cheez\Desktop\code\ProjectEuler\CSharp\002\bin\Debug\netcoreapp3.1\002.deps.json
+C:\Users\cheez\Desktop\code\ProjectEuler\CSharp\002\bin\Debug\netcoreapp3.1\002.runtimeconfig.json
+C:\Users\cheez\Desktop\code\ProjectEuler\CSharp\002\bin\Debug\netcoreapp3.1\002.runtimeconfig.dev.json
+C:\Users\cheez\Desktop\code\ProjectEuler\CSharp\002\bin\Debug\netcoreapp3.1\002.dll
+C:\Users\cheez\Desktop\code\ProjectEuler\CSharp\002\bin\Debug\netcoreapp3.1\002.pdb
+C:\Users\cheez\Desktop\code\ProjectEuler\CSharp\002\obj\Debug\netcoreapp3.1\002.dll
+C:\Users\cheez\Desktop\code\ProjectEuler\CSharp\002\obj\Debug\netcoreapp3.1\002.pdb
+C:\Users\cheez\Desktop\code\ProjectEuler\CSharp\002\obj\Debug\netcoreapp3.1\002.genruntimeconfig.cache

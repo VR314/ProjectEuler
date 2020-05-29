@@ -23,3 +23,10 @@ To solve a new prompt in Python or F#:
 To solve a new prompt in Java:
 	- use VSCode w/ Java Extension
 	- create a folder 00x and inside a file + class named _00x (class name needs to match file name)
+	- add to classpath when prompted to
+
+
+Commit structure:
+MM/DD/YY - LANG 00x, LANG 00x, ... (LANGS in alphabetical order, combine LANGS for the same prompt)
+	ex. 05/28/20
+		- C++ C# F# Java Py 001
