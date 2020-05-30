@@ -1,15 +1,30 @@
+open System
 
-let half input = int32(input) / 2
+(*
+*	Problem #: 003
+*	Date Attempted: 05/28/20
+*	Date Solved: 05/29/20
+*
+*	What is the largest prime factor of the number 600851475143 ?
+*
+*	Answer: 6857
+*)
 
-let findLargestPrimeFactor l:int64 =
-    let mutable input:int64 = l
+let sqrt input = Math.Sqrt(float(input))
+
+let find input:int64 = 
+    let mutable temp = (input) 
     let mutable again = true
-    while again do
+    while again do 
         again <- false
-        for i = 2 to (half input) do
-            if input % int64(i) = 0L then
-                input <- input / int64(i)
+        for i = 2 to int(sqrt temp) do 
+            if temp % int64(i) = 0L && int64(i) < temp then
                 again <- true
-    input
+                //printfn "%i / %i" temp i
+                temp <- temp / int64(i)
+            else do ()
+    temp
 
-printfn "%i" (findLargestPrimeFactor 600851475143L)
+
+let value = find 600851475143L
+printfn "%i" value

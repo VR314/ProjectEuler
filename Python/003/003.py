@@ -17,9 +17,9 @@ def findLargestPrimeNumber(long):
         again = False
         for i in range(2, int(math.sqrt(long))):
             if long % i == 0:
+                print(str(long) + " / " + str(i))
                 long = long / i
                 again = True
-                print(str(long) + " / " + str(i))
                 break
     return long
 
