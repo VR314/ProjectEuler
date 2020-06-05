@@ -8,6 +8,9 @@
 /Java/.vscode
 /C++/.vs
 /CSharp/.vs
+*.vcxproj
+*.filters
+*.user
 
 
 ### C++ ###
