@@ -4,7 +4,8 @@
 *	Date Attempted: 06/02/20
 *	Date Solved: 06/02/20
 *
-*	If all the numbers from 1 to 1000 (one thousand) inclusive were written out in words, how many letters would be used?
+*	If all the numbers from 1 to 1000 (one thousand) inclusive were written out in words, 
+*   how many letters would be used?
 *
 *	Answer: 21124 
 """
