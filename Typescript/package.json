@@ -1,0 +1,14 @@
+{
+  "name": "project-euler-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "ts-node-dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node-dev": "^1.1.8"
+  }
+}

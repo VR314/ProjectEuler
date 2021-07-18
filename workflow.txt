@@ -20,10 +20,10 @@ To solve a new prompt in Python or F#:
 	- add a source file (*.py / *.fsx)
 	- code!
 
-To solve a new prompt in Java:
-	- use VSCode w/ Java Extension
-	- create a folder 00x and inside a file + class named _00x (class name needs to match file name)
-	- add to classpath when prompted to
+To solve a new prompt in Typescript:
+	- create a new folder 00x
+	- add a source file (*.ts)
+	- to run, run `npm start` followed by the path of the file (ex. `npm start 001/001.ts`)
 
 
 Commit structure:
