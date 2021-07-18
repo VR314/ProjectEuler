@@ -13,12 +13,11 @@ To solve a new prompt in C# or C++:
 	- create new console project
 	- set name to 00x 
 	- set solution to "Add to Solution"
-	- create!
 
 To solve a new prompt in Python or F#:
 	- create a new folder 00x
 	- add a source file (*.py / *.fsx)
-	- code!
+	- (to run f# scripts) right click the script in the Solution Explorer, then open developer console, then run `dotnet fsi` and pass in the name of the script.
 
 To solve a new prompt in Typescript:
 	- create a new folder 00x
