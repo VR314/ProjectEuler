@@ -1,6 +1,7 @@
 # ProjectEuler
 ### Doing Project Euler prompts... in 5 different languages
-&nbsp;
+
+![Project Euler Badge](https://projecteuler.net/profile/vrags.png)
 
 ## Progress
 ### C++ (7)
